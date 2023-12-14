@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../E-Catalogue-Newtest2"
+		},
+		{
+			"path": "../../../../../../../sneat-1.0.0/sneat-1.0.0"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "sneat-1.0.0",
+        "liveServer.settings.port": 5501
+    }
+}

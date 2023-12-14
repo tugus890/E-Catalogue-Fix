@@ -1,0 +1,10 @@
+.navbar-custom .navbar-brand.logo-image img {
+	margin: auto;
+	width: 77px;
+	height: 70px;
+}
+
+/* Login Page */
+.ex-2-header p {
+	color: black;
+}

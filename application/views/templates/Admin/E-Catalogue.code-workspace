@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../.."
+	},
+	{
+		"path": "C:/Users/wahyu/Downloads/dist"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "dist",
+    "liveServer.settings.port": 5502
+  }
+}
